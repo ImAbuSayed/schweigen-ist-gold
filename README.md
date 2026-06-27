@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schweigen-ist-gold/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Schweigen ist Gold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schweigen-ist-gold/) |
+| **Get License** | [Get License For Schweigen ist Gold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schweigen-ist-gold/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die Nacht gehört uns, steig ein in den Benz, wir fahren
+> Lila Scheine fliegen, Baby, wenn wir durch die Stadt jagen
+> Dein Blick sagt mir mehr als tausend Worte tun
+> Schweigen ist Gold, heute haben wir zu tun
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
